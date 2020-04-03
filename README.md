@@ -13,5 +13,5 @@ npm i
 ## Run
 
 ```bash
-node run.js
+npm start
 ```
