@@ -2,6 +2,10 @@
 
 Quick example code for `node-exiftool`
 
+## Library documentation
+
+https://www.npmjs.com/package/node-exiftool
+
 ## Installation
 
 ```bash
